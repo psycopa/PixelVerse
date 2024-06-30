@@ -3,3 +3,14 @@
 
 # ubah bagian combo.txt menjadi combo daily.
 bagian ini harus ganti setiap hari sesuai combo daily
+
+# eksekusi di termux
+python
+   ```
+   pkg install python
+   ```
+
+   git
+   ```
+   pkg install git
+   ```
