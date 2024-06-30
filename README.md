@@ -14,3 +14,18 @@ python
    ```
    pkg install git
    ```
+pergi ke directory
+   ```
+   cd pixelversexyzbot
+   ```
+
+install the require library
+   ```
+   python -m pip install -r requirements.txt
+   ```
+# Ubah dulu bagian data.txt & combo.txt
+
+jika sudah di ubah 👆? eksekusi bot sekarang 
+   ```
+   python bot.py
+   ```
