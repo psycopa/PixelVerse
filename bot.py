@@ -226,10 +226,10 @@ class PixelTapTod:
 
     def main(self):
         banner = f"""
-    {hijau}AUTO CLAIM PIXELTAP BY {biru}PIXELVERSE
+    {hijau}BOT CLAIM PIXELTAP {biru}PIXELVERSE
     
     {putih}By : {hijau}NDSFIVE
-    {hijau}Github : {putih}@psycopa
+    {biru}Github : {biru}@psycopa
         """
         arg = argparse.ArgumentParser()
         arg.add_argument('--marin', action="store_true")
