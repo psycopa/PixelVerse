@@ -21,7 +21,7 @@ python
    ```
 pergi ke directory
    ```
-   cd pixelversexyzbot
+   cd PixelVerse
    ```
 
 install the require library
