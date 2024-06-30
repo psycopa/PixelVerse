@@ -14,6 +14,9 @@ python
    ```
    pkg install git
    ```
+```shell
+   git clone https://github.com/psycopa/PixelVerse.git
+   ```
 pergi ke directory
    ```
    cd pixelversexyzbot
