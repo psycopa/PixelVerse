@@ -14,6 +14,8 @@ python
    ```
    pkg install git
    ```
+
+ Clone repository
 ```shell
    git clone https://github.com/psycopa/PixelVerse.git
    ```
